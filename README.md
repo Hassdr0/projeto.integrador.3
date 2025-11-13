@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo-pizzaria.png" width="210" alt="Logo da Pizzaria">
-</p>
 
 <h1 align="center">🍕 Sistema de Gerenciamento de Pizzaria</h1>
 
