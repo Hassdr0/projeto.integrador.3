@@ -1,39 +1,31 @@
-##CRUD de Pizzaria — Projeto Integrador
+<p align="center">
+  <img src="assets/logo-pizzaria.png" width="210" alt="Logo da Pizzaria">
+</p>
 
-Este projeto foi desenvolvido para a disciplina Projeto Integrador da faculdade, com o objetivo de praticar conceitos fundamentais do desenvolvimento web.
+<h1 align="center">🍕 Sistema de Gerenciamento de Pizzaria</h1>
 
-O sistema implementa um CRUD básico para gerenciamento de pizzas e sabores, permitindo cadastrar, listar, editar e excluir registros. A proposta é aplicar na prática o que foi estudado em sala sobre estrutura de aplicações, manipulação de dados e desenvolvimento de interfaces simples.
+<p align="center">
+  Projeto Integrador • CRUD Completo  
+  <br>
+  Desenvolvido em PHP, Bootstrap e MySQL
+</p>
 
-##Tecnologias Utilizadas
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow">
+</p>
 
-PHP
+---
 
-MySQL
+## 🚀 Tecnologias Utilizadas
 
-Bootstrap
+- **PHP 8+** — Backend
+- **MySQL** — Banco de dados relacional
+- **Bootstrap 5** — Layout responsivo
+- **HTML5 / CSS3 / JavaScript**
+- **XAMPP / Laragon / WAMP** — Ambiente local
 
-HTML / CSS
+---
 
-JavaScript
-
-##Objetivo do Projeto
-
-O projeto tem como foco reforçar:
-
-Lógica de criação de CRUD
-
-Conexão e interação com banco de dados
-
-Estruturação de um sistema web básico
-
-Organização de código e boas práticas iniciais
-
-##Como Executar
-
-Clone este repositório.
-
-Configure o banco de dados MySQL.
-
-Ajuste as credenciais de conexão no projeto.
-
-Execute em um ambiente local (XAMPP, WAMP ou Laragon).
