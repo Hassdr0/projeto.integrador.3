@@ -1,29 +1,39 @@
+#CRUD de Pizzaria — Projeto Integrador
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Este projeto foi desenvolvido para a disciplina Projeto Integrador da faculdade, com o objetivo de praticar conceitos fundamentais do desenvolvimento web.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+O sistema implementa um CRUD básico para gerenciamento de pizzas e sabores, permitindo cadastrar, listar, editar e excluir registros. A proposta é aplicar na prática o que foi estudado em sala sobre estrutura de aplicações, manipulação de dados e desenvolvimento de interfaces simples.
 
-# Sistema de Pizzaria — CRUD Básico
+#Tecnologias Utilizadas
 
-Projeto Integrador | PHP + Bootstrap + MySQL
+PHP
 
-# Sobre o Projeto
+MySQL
 
-Este projeto foi desenvolvido para a disciplina Projeto Integrador, com o objetivo de reforçar conceitos fundamentais do desenvolvimento web, incluindo:
+Bootstrap
 
-✔️ Construção de CRUD completo
+HTML / CSS
 
-✔️ Organização de projeto
+JavaScript
 
-✔️ Manipulação de dados com PHP
+#Objetivo do Projeto
 
-✔️ Integração com banco de dados MySQL
+O projeto tem como foco reforçar:
 
-✔️ Utilização do framework CSS Bootstrap para layout e responsividade
+Lógica de criação de CRUD
 
-O sistema simula o gerenciamento básico de uma pizzaria, permitindo o cadastro, edição, listagem e exclusão de pizzas e seus sabores.
+Conexão e interação com banco de dados
+
+Estruturação de um sistema web básico
+
+Organização de código e boas práticas iniciais
+
+#Como Executar
+
+Clone este repositório.
+
+Configure o banco de dados MySQL.
+
+Ajuste as credenciais de conexão no projeto.
+
+Execute em um ambiente local (XAMPP, WAMP ou Laragon).
