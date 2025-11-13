@@ -8,94 +8,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Sistema de Pizzaria — CRUD Básico
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Projeto Integrador | PHP + Bootstrap + MySQL
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Sobre o Projeto
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Este projeto foi desenvolvido para a disciplina Projeto Integrador, com o objetivo de reforçar conceitos fundamentais do desenvolvimento web, incluindo:
 
-## Learning Laravel
+✔️ Construção de CRUD completo
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+✔️ Organização de projeto
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+✔️ Manipulação de dados com PHP
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+✔️ Integração com banco de dados MySQL
 
-## Laravel Sponsors
+✔️ Utilização do framework CSS Bootstrap para layout e responsividade
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-Guia de Execução do Projeto Laravel
-
-Copie o arquivo de variáveis de ambiente:
-
-cp .env.example .env
-
-Configure as credenciais do banco de dados:
-
-Abra o arquivo .env e edite as seguintes linhas:
-
-DB_DATABASE=nome_do_banco
-DB_USERNAME=usuario
-DB_PASSWORD=senha
-
-
-Instale as dependências do PHP:
-composer install
-
-Gere a chave da aplicação:
-php artisan key:generate
-
-Execute as migrations:
-php artisan migrate
-
-Execute os seeders (opcional):
-php artisan db:seed
-
-Inicie o servidor local:
-php artisan serve
-
-Acesse o projeto no navegador:
-http://127.0.0.1:8000
->>>>>>> 1384a540fa0baccc1ed74052a3ea7cfd2c90d2cd
+O sistema simula o gerenciamento básico de uma pizzaria, permitindo o cadastro, edição, listagem e exclusão de pizzas e seus sabores.
