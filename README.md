@@ -1,5 +1,9 @@
 
-<h1 align="center">🍕 Sistema de Gerenciamento de Pizzaria</h1>
+<p align="center">
+  <img src="resources/css/Bentodog.jpg" width="210" alt="Bentodog">
+</p>
+
+<h1 align="center"> Sistema de Gerenciamento de Pizzaria</h1>
 
 <p align="center">
   Projeto Integrador • CRUD Completo  
@@ -16,7 +20,7 @@
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **PHP 8+** — Backend
 - **MySQL** — Banco de dados relacional
